@@ -1,0 +1,70 @@
+/* Estilo Geral */
+.body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #f8f9fa; /* Cor de fundo da navbar, ajuste conforme necessário */
+}
+
+/* Título da página */
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Estilização da tabela */
+.user-list {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.user-list th,
+.user-list td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.user-list th {
+    background-color: #e9ecef;
+    color: #495057;
+}
+
+.user-list tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.user-list tr:hover {
+    background-color: #ddd;
+}
+
+/* Botões */
+.edit-button,
+.delete-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.delete-button {
+    background-color: #dc3545;
+}
+
+.edit-button:hover,
+.delete-button:hover {
+    opacity: 0.8;
+}
+
+/* Formulários ocultos */
+#edit-form,
+#delete-form,
+#transformAdmim-form {
+    display: none;
+}

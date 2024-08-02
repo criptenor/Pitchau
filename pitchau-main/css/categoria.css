@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.divin {
+    margin: 0;
+    padding: 0;
+    height: 90vh;
+    background-image: url('../img/background/perfil_wallpaper.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    color: #252222;
+    backdrop-filter: blur(5px);
+}
+
+#dados-conta {
+    background-color: rgba(255, 255, 255, 0.7); /* Fundo branco com transparência */
+    border: 5px solid #e1e1e1;
+    padding: 15px;
+    border-radius: 5px; /* Bordas arredondadas */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

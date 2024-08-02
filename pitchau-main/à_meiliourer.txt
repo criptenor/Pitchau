@@ -1,0 +1,34 @@
+~sem super adm~
+~cadastro não cadastrando~
+~inserção automática de produtos não funcionando~
+~botão carrinho bugado, apenas texto~
+-header redirecionador não funcionando(cadastro_produto)~
+imagem usuário
+~menus~
+sessão
+sessão relação de vendas de usuário
+~cadastro de produto~
+~não alterando email~
+~não alterando senha~
+carrinho -> excluir produto
+
+	botão alterar email, excluir usuário e tornar administrador em pop up
+
+tratamento de erros
+
+~Avisar tamanho de foto~
+~Avisar tamanho de foto~
+~link pra instagram~
+
+~alerta de deslog ao alterar email, senha ou apagar conta~
+
+~botão add cart(visitante) leva p login~
+~botão carrinho bugado meio bugado~
+enviar email não funcionando
+
+	login/registro -> color-text para branco
+
+	editar produto
+editar categoria
+
+envia email
